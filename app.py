@@ -351,3 +351,4 @@ st.caption(
     "BookVerse Analytics | Demonstration data is illustrative. "
     "Upload a real dataset for meaningful analysis."
 )
+
